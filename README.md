@@ -90,6 +90,4 @@ To add more cities, create an issue and paste cities in following array format.
 
 ***
 
-## Data source
-
-Data fetched from [gist](https://gist.github.com/ankitnetwork18/4509792) by [ankitnetwork18](https://github.com/ankitnetwork18) and other websites.
+#
